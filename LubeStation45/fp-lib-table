@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LubeStation)(type KiCad)(uri ${KIPRJMOD}/LubeStation.pretty)(options "")(descr ""))
+  (lib (name Ramon)(type KiCad)(uri D:/Projects/KiCad/Ramon.pretty)(options "")(descr ""))
+)
